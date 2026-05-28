@@ -3,6 +3,9 @@
 
 SQL queries? Check them out here: [project_sql_folder](/Project_SQL/)
 
+Here is the Data SourceFiles
+**[Click Here to View the Project Data Source Folder](https://drive.google.com/drive/folders/1yJokNeAcqdvfOCw-sYrGzIlDY_ZxNVxe?usp=drive_link)
+
 ### The questions I wanted to answer through my SQL queries were:
 
 1. What are the top-paying data scientist jobs?
