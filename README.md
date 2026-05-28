@@ -56,6 +56,8 @@ Here's the breakdown of the top data scientist jobs in 2023:
 * **Diverse Employers:** Companies like Glocomms, Algo Capital Group, and IBM Careers are among those offering high salaries, showing a broad interest across different industries.
 * **Job Title Variety:** There's a clear mix in job titles, from Data Scientist to Senior Data Scientist, reflecting varied roles and specializations within data science.
 
+![Top Paying Roles](assets/Top_paying_Roles.png)
+*Bar Chart visualizing the salary for the top 10 salaries for Data Scientist; Gemini generated this graph from my SQL query results*.
 
 ### 2.  Skills for Top Paying Jobs
 
